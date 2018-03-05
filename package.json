@@ -1,0 +1,14 @@
+{
+  "name": "testeando_electron",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Alber Erre - github.com/AlberErre",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
